@@ -6,7 +6,7 @@ gem: [jekyll-paginate, jekyll-gists]
 
 # Setup
 title:               개발 잘하고 싶어요
-tagline:             'A Jekyll theme'
+# tagline:             'A Jekyll theme'
 description:         '공부한 내용 개발 이슈 등을 정리하고 있습니다.'
 url:                 https://minomi.github.io
 baseurl:             ''
@@ -20,6 +20,8 @@ author:
 
 github:
 repo:              https://github.com/minomi
+
+disqus_shortname: minomi
 
 # Custom vars
 version:             1.0.0
