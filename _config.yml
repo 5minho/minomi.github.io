@@ -22,7 +22,6 @@ github:
 repo:              https://github.com/minomi
 
 disqus_shortname: minomi
-google_analytics: UA-122649244-2
 
 # Custom vars
 version:             1.0.0
