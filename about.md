@@ -3,28 +3,18 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+##### 안녕하세요. 저의 개발 블로그에 방문해 주신것을 감사드립니다. </br>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+### 저는 이 블로그에
 
-There are currently two themes built on Poole:
+* ##### 프로그래밍에 대해 공부한 내용 정리
+* ##### 개인 개발 중 이슈
+* ##### 개발 서적, 세미나 후기
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+을 포스팅 하고 있습니다. 또는 할 예정입니다.
+<br/>
+### 그리고 저는
+ * ##### 주니어 개발자입니다.
+ * ##### 자기 계발에 관심이 많습니다.
+ * ##### 오픈소스에 관심이 많습니다.
+ * ##### 수학, 컴퓨터 과학에 관심이 많습니다.
